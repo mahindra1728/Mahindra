@@ -1,0 +1,2 @@
+Here 4 point folder contained experiment data where PSD upto 4 points in every experiment was seen, 
+this was then changed to 10 seconds interval evaluation of PSD data of each theta alpha and beta waves
