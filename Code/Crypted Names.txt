@@ -1,0 +1,10 @@
+P1 = Altesham
+P2 = Arvind
+P3 = Aslam   (Slot 2 : Morning 11 june 3 pm) (Slot 2 Night 11 june 9 pm)
+P4 = Deepesh
+P5 = Dinesh  (Slot 1 : Night) (Slot 2 : Night)
+P6 = Gowri   (Slot 2 : Morning) (Slot 2 :Night) (Slot 4 Night)
+P7 = Jaivik  (Slot 1 : Night) (Slot 2 : Night)
+P8 = Manika (Slot 2 night 05 june night 11:50)	
+P9 = Nasre
+P10 = Shubhankar  (Slot 3 morning 11 am)  (Slot 1 night 22 : 49)
